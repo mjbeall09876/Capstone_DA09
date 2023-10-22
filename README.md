@@ -4,11 +4,21 @@ NSW
 Motivation
 
        After working for years on sheep and goat farms, I became fascinated by the impact of animal grazing on soil health. Through field observation, it was clear that intensive rotational grazing could have a massive impact in soil improvement over time, but free roam grazing would have the opposite effect.
-	My questions: how do we measure soil quality?
+
+
+	My questions: how do we measure soil quality? Which animals are the major grazers? Which plants are the major growers?
+
+Three soil types – silt, sand, clay
+Three animals – livestock (goats, sheep, deer, cattle), kangaroo, rabbits
+Three measures of soil chemistry – ph, phosphorus, carbon
+Three communities – Redgum, Cypress Pine, Blackbox
+
 
 The Data
 	
- over ten Australian sites over three years. The goal of my project is to discover any correlation between animal grazing and overall soil quality. While I have personally seen intensive rotational grazing positively impact soil health and biodiversity, I will be curious to see if the mixture of landscapes represented as well as mix of wild and stock grazing may in fact show over-foraging and soil depletion.
+	The New South Wales Grazing Assessment is a large collection of datasets spanning fifty four grazing sites collected over three years. 
+
+The goal of my project is to discover any correlation between animal grazing and overall soil quality. While I have personally seen intensive rotational grazing positively impact soil health and biodiversity, I will be curious to see if the mixture of landscapes represented as well as mix of wild and stock grazing may in fact show over-foraging and soil depletion.
 Motivation
 My passion for knitting led me to learn about wool production, growing natural dye plants, and eventually vegetable and ruminant farming. It was in the fields where I learned about rotational grazing and witnessed its profound impact on ecological restoration. My interest in textiles combined with my concern for the climate crisis we are currently living through causes me to turn my attention to grazing and wonder how we can allow the animals we foster to rebuild a healthy living planet. 
 Data Question
