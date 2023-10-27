@@ -5,6 +5,10 @@ Motivation
 
        After working for years on sheep and goat farms, I became fascinated by the impact of animal grazing on soil health. Through field observation, it was clear that intensive rotational grazing could have a massive impact in soil improvement over time, but free roam grazing would have the opposite effect.
 
+Motivation
+My passion for knitting led me to learn about wool production, growing natural dye plants, and eventually vegetable and ruminant farming. It was in the fields where I learned about rotational grazing and witnessed its profound impact on ecological restoration. My interest in textiles combined with my concern for the climate crisis we are currently living through causes me to turn my attention to grazing and wonder how we can allow the animals we foster to rebuild a healthy living planet. 
+
+
 Background
 
 The final piece of the carbon cycle is grazing. Most of the biomass in grass, or any other plant, is tied up in complex polymers like cellulose and lignin, which are a stockpile of stored solar energy. This solar power is completely inaccessible to humans, but it is indirectly accessible to cattle. Cattle are part of a group of animals called ruminants, along with sheep and bison that chew the cud regurgitated from their rumen. Rumen is the first stomach of a ruminant, where food or cud is received and partly digested with the aid of bacteria, before passing on to another part of the animal’s digestive tract.
@@ -24,9 +28,6 @@ The goal of my project is to discover any correlation between animal grazing and
 
 	My questions: how do we measure soil quality? Which animals are the major grazers? Which plants are the major growers?
 
-
-Motivation
-My passion for knitting led me to learn about wool production, growing natural dye plants, and eventually vegetable and ruminant farming. It was in the fields where I learned about rotational grazing and witnessed its profound impact on ecological restoration. My interest in textiles combined with my concern for the climate crisis we are currently living through causes me to turn my attention to grazing and wonder how we can allow the animals we foster to rebuild a healthy living planet. 
 
 Data Question
 What is the ideal range of grazing diversity (wildlife and animal stock) in the Australian regions studied? Does more intense grazing always correlate to poorer soil health? What are acceptable parameters that indicate soil health? Is there any data to support some grazing is beneficial to soil health?
