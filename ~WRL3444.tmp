@@ -3,7 +3,7 @@ The New South Wales Grazing Study
 
 MOTIVATION
 
-My passion for knitting led me to learn about spinning yarn, growing natural dye plants, wool production, and eventually vegetable and small ruminant farming. After working for years on farms, I became fascinated by the impact of animal grazing on soil health. While herding goats and sheep through pasture, I learned about rotational grazing and witnessed its profound impact on ecological restoration. Through field observation, it was clear that intensive rotational grazing could have a massive impact in soil improvement over time, but free roam grazing would have the opposite effect. My interest in textiles combined with my concern for the climate crisis we are currently living through causes me to turn my attention to grazing and wonder how we can allow the animals we foster to rebuild a healthy living planet. 
+My passion for knitting led me to learn about wool production, growing natural dye plants, and eventually vegetable and ruminant farming. It was in the fields where I learned about rotational grazing and witnessed its profound impact on ecological restoration. After working for years on sheep and goat farms, I became fascinated by the impact of animal grazing on soil health. Through field observation, it was clear that intensive rotational grazing could have a massive impact in soil improvement over time, but free roam grazing would have the opposite effect. My interest in textiles combined with my concern for the climate crisis we are currently living through causes me to turn my attention to grazing and wonder how we can allow the animals we foster to rebuild a healthy living planet. 
 
 
 BACKGROUND
@@ -37,7 +37,7 @@ Maximize Cover
 
 THE DATA
 	
-The New South Wales Grazing Assessment is a large collection of datasets spanning fifty-four grazing sites collected over three years. I looked at four datasets and focused on the measures of soil health below:
+The New South Wales Grazing Assessment is a large collection of datasets spanning fifty-four grazing sites collected over three years. 
 
 Three soil types – silt, sand, clay
 Three animals – livestock (goats, sheep, deer, cattle), kangaroo, rabbits
@@ -55,9 +55,7 @@ What is the ideal range of grazing diversity (wildlife and animal stock) in the 
 
 Technologies
 
-The four datasets used were retrieved from the website operated by the government of the Australian state New South Wales. The datasets were downloaded as CSV files in Excel where I then used pivot tables to visualize the data. I also used Tableau to visualize data relationships as represented in my final presentation. 
-
-For most of the project, I used a Geospatial Conda Environment and Python 3 within a Jupyter Notebook, mainly working within a Folium to visualize the data interactions required for analysis. 
+For most of the project, I used a Geospatial Conda Environment and Python 3 within a Jupyter Notebook, mainly working within a Folium to visualize the data interactions required for analysis. The four datasets used were retrieved from the website operated by the government of the Australian state New South Wales. The datasets were downloaded as CSV files in Excel where I then used pivot tables to visualize the data. I also used Tableau to visualize data relationships as represented in my final presentation.
 
 Problems & Hurdles
 
