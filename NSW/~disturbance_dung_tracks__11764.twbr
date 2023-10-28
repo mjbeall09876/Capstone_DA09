@@ -626,6 +626,26 @@
     </action>
   </actions>
   <worksheets>
+    <worksheet name='Sheet 4'>
+      <table>
+        <view>
+          <datasources />
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{AE4C8E19-331B-4307-9423-89AF5EE3988B}' />
+    </worksheet>
     <worksheet name='disturbances'>
       <layout-options>
         <title>
@@ -832,7 +852,7 @@
       </cards>
       <simple-id uuid='{BD8908F7-7490-4798-91A1-2A194E846BE3}' />
     </window>
-    <window class='worksheet' maximized='true' name='disturbances'>
+    <window class='worksheet' name='disturbances'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -859,6 +879,29 @@
         </edge>
       </cards>
       <simple-id uuid='{70AB725E-4E07-4C48-8089-E1D77352058A}' />
+    </window>
+    <window class='worksheet' maximized='true' name='Sheet 4'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='30'>
+            <card type='columns' />
+          </strip>
+          <strip size='30'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{AECB5384-F699-494E-98EF-C95BEF7F062D}' />
     </window>
   </windows>
 </workbook>
