@@ -14,7 +14,7 @@ Dr. Allen Williams, Ph.D.
 
 The Data
 	
-	The New South Wales Grazing Assessment is a large collection of datasets spanning fifty-four grazing sites collected over three years. 
+The New South Wales Grazing Assessment is a large collection of datasets spanning fifty-four grazing sites collected over three years. 
 
 Three soil types – silt, sand, clay
 Three animals – livestock (goats, sheep, deer, cattle), kangaroo, rabbits
@@ -48,7 +48,7 @@ Data Questions
 
 The goal of my project is to discover any correlation between animal grazing and overall soil quality. While I have personally seen intensive rotational grazing positively impact soil health and biodiversity, I will be curious to see if the mixture of landscapes represented as well as mix of wild and stock grazing may in fact show over-foraging and soil depletion.
 
-	My questions: how do we measure soil quality? Which animals are the major grazers? Which plants are the major growers?
+My questions: how do we measure soil quality? Which animals are the major grazers? Which plants are the major growers?
 
 What is the ideal range of grazing diversity (wildlife and animal stock) in the Australian regions studied? Does more intense grazing always correlate to poorer soil health? What are acceptable parameters that indicate soil health? Is there any data to support some grazing is beneficial to soil health?
 
