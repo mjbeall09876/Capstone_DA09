@@ -27,6 +27,9 @@
           <named-connection caption='nsw-landscape-resilience' name='excel-direct.1bjj3911su3cki181wwug02e0bhi'>
             <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/HP/OneDrive/Desktop/NSS - Data Analytics 9/Capstone/Capstone_DA09/data/nsw-landscape-resilience.xlsx' interpretationMode='0' password='' server='' validate='no' />
           </named-connection>
+          <named-connection caption='nsw-site-location-and-details' name='excel-direct.01sic7a0zyvlp212jn9sd1vdzcxl'>
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/HP/OneDrive/Desktop/NSS - Data Analytics 9/Capstone/Capstone_DA09/data/nsw-site-location-and-details.xlsx' interpretationMode='0' password='' server='' validate='no' />
+          </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='excel-direct.1bjj3911su3cki181wwug02e0bhi' name='Dung' table='[Dung$]' type='table'>
           <columns gridOrigin='A1:G1603:no:A1:G1603:0' header='yes' outcome='6'>
@@ -1152,7 +1155,7 @@
     </worksheet>
   </worksheets>
   <windows saved-dpi-scale-factor='1.5' source-height='44'>
-    <window class='worksheet' name='Patch Type'>
+    <window class='worksheet' maximized='true' name='Patch Type'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1190,7 +1193,7 @@
       </viewpoint>
       <simple-id uuid='{3095946D-2ED4-41D2-B1F5-E6DDD2F1E0C3}' />
     </window>
-    <window class='worksheet' maximized='true' name='LitterCover'>
+    <window class='worksheet' name='LitterCover'>
       <cards>
         <edge name='left'>
           <strip size='160'>

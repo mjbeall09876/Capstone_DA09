@@ -320,7 +320,7 @@
     </worksheet>
   </worksheets>
   <windows saved-dpi-scale-factor='1.5' source-height='44'>
-    <window class='worksheet' maximized='true' name='Carbon'>
+    <window class='worksheet' name='Carbon'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -383,7 +383,7 @@
       </viewpoint>
       <simple-id uuid='{C6ED825F-FD5E-492D-B7D8-0A3E43BBABB5}' />
     </window>
-    <window class='worksheet' name='Phos'>
+    <window class='worksheet' maximized='true' name='Phos'>
       <cards>
         <edge name='left'>
           <strip size='160'>
